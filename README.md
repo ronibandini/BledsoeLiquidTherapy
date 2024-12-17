@@ -34,7 +34,7 @@ The Raspberry Pi 5 board is connected to a 5V 3Ampers Power Supply using a USBC 
 
 # Contact
 
-Customizations or similar projects?
+Customizations or custom projects?
 
 https://www.linkedin.com/in/ronibandini/
 
